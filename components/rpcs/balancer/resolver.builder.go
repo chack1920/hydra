@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro-plat/lib4go/logger"
 	"github.com/chack1920/hydra/global"
 	"github.com/chack1920/hydra/registry"
+	"github.com/micro-plat/lib4go/logger"
 
 	//"google.golang.org/grpc/naming"
 
@@ -108,7 +108,7 @@ func (b *ResolverBuilder) buildManualResolver(proto string, address []string) {
 		grpcAddrs = append(grpcAddrs, resolver.Address{
 			Addr:       address[i],
 			Type:       resolver.Backend,
-			Attributes: attributes.New(),
+			Attributes: attributes.New(1, 0),
 		})
 		b.caches[address[i]] = true
 	}
@@ -279,7 +279,7 @@ func (b *ResolverBuilder) updateAddrs() {
 		grpcAddrs = append(grpcAddrs, resolver.Address{
 			Addr:       address[i],
 			Type:       resolver.Backend,
-			Attributes: attributes.New(),
+			Attributes: attributes.New(1, 0),
 		})
 	}
 	b.orgResolver.CC.UpdateState(resolver.State{Addresses: grpcAddrs})

@@ -9,10 +9,10 @@ import (
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
-	"psbnb.com/greatsun/hydra/registry/watcher"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
+	"github.com/chack1920/hydra/registry/watcher"
 )
 
 var cluster = cmap.New(2)

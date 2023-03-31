@@ -11,7 +11,7 @@ import (
 	logs "github.com/lib4dev/cli/logger"
 	"github.com/manifoldco/promptui"
 	"github.com/micro-plat/lib4go/types"
-	vc "psbnb.com/greatsun/hydra/conf"
+	vc "github.com/chack1920/hydra/conf"
 )
 
 func getCustomString(path, label, value, tname string, input types.XMap) (string, error) {

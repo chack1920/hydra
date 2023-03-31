@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/server/rpc"
+	"github.com/chack1920/hydra/conf/server/rpc"
 )
 
 func Test_newRPC(t *testing.T) {

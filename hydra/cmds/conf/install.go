@@ -3,10 +3,10 @@ package conf
 import (
 	logs "github.com/lib4dev/cli/logger"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/global/compatible"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/global/compatible"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs"
+	"github.com/chack1920/hydra/registry"
 )
 
 func installNow(c *cli.Context) (err error) {

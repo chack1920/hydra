@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"golang.org/x/net/context"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/pkgs"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/pkgs"
 )
 
 // IRequest RPC请求

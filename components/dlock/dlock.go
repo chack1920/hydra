@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // DLock 分布式锁

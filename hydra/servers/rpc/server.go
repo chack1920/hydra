@@ -6,15 +6,15 @@ import (
 	"strings"
 	"time"
 
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/global/compatible"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/global/compatible"
 
 	"github.com/asaskevich/govalidator"
 	"github.com/micro-plat/lib4go/net"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc/pb"
-	"psbnb.com/greatsun/hydra/conf/server/router"
+	"github.com/chack1920/hydra/components/rpcs/rpc/pb"
+	"github.com/chack1920/hydra/conf/server/router"
 )
 
 // Server cron服务器

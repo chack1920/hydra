@@ -1,10 +1,10 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/server/mqc"
-	"psbnb.com/greatsun/hydra/conf/server/queue"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf/server/mqc"
+	"github.com/chack1920/hydra/conf/server/queue"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/services"
 )
 
 type mqcBuilder struct {

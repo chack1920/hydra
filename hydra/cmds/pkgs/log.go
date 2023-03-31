@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/global/compatible"
+	"github.com/chack1920/hydra/global/compatible"
 
 	"github.com/micro-plat/lib4go/errs"
 )

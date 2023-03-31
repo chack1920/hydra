@@ -4,10 +4,10 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/services"
 
-	"psbnb.com/greatsun/hydra/conf/server/mqc"
-	"psbnb.com/greatsun/hydra/conf/server/queue"
+	"github.com/chack1920/hydra/conf/server/mqc"
+	"github.com/chack1920/hydra/conf/server/queue"
 )
 
 func Test_newMQC(t *testing.T) {

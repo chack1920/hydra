@@ -3,7 +3,7 @@ package middleware
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/dispatcher"
+	"github.com/chack1920/hydra/hydra/servers/pkg/dispatcher"
 )
 
 type dispWriter struct {

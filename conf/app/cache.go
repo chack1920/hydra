@@ -6,10 +6,10 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/server"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/server"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
 )
 
 const varNodeName = "var"

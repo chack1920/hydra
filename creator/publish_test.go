@@ -7,19 +7,19 @@ import (
 	"strings"
 	"testing"
 
-	"psbnb.com/greatsun/hydra/conf/server/acl/whitelist"
+	"github.com/chack1920/hydra/conf/server/acl/whitelist"
 
 	"github.com/micro-plat/lib4go/assert"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/server"
-	varpub "psbnb.com/greatsun/hydra/conf/vars"
-	"psbnb.com/greatsun/hydra/conf/vars/http"
-	"psbnb.com/greatsun/hydra/conf/vars/rpc"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
-	_ "psbnb.com/greatsun/hydra/registry/registry/filesystem"
-	_ "psbnb.com/greatsun/hydra/registry/registry/localmemory"
-	_ "psbnb.com/greatsun/hydra/registry/registry/zookeeper"
+	"github.com/chack1920/hydra/conf/server"
+	varpub "github.com/chack1920/hydra/conf/vars"
+	"github.com/chack1920/hydra/conf/vars/http"
+	"github.com/chack1920/hydra/conf/vars/rpc"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
+	_ "github.com/chack1920/hydra/registry/registry/filesystem"
+	_ "github.com/chack1920/hydra/registry/registry/localmemory"
+	_ "github.com/chack1920/hydra/registry/registry/zookeeper"
 )
 
 func Test_conf_Pub(t *testing.T) {

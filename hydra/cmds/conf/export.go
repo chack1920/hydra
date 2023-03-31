@@ -9,12 +9,12 @@ import (
 	logs "github.com/lib4dev/cli/logger"
 	"github.com/micro-plat/lib4go/types"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs"
+	"github.com/chack1920/hydra/registry"
 )
 
 func exportNow(c *cli.Context) (err error) {

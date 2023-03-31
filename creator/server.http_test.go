@@ -5,16 +5,16 @@ import (
 
 	"github.com/micro-plat/lib4go/assert"
 
-	"psbnb.com/greatsun/hydra/conf/server/acl/blacklist"
-	"psbnb.com/greatsun/hydra/conf/server/acl/limiter"
-	"psbnb.com/greatsun/hydra/conf/server/acl/whitelist"
-	"psbnb.com/greatsun/hydra/conf/server/api"
-	"psbnb.com/greatsun/hydra/conf/server/auth/apikey"
-	"psbnb.com/greatsun/hydra/conf/server/auth/basic"
-	"psbnb.com/greatsun/hydra/conf/server/auth/jwt"
-	"psbnb.com/greatsun/hydra/conf/server/auth/ras"
-	"psbnb.com/greatsun/hydra/conf/server/header"
-	"psbnb.com/greatsun/hydra/conf/server/static"
+	"github.com/chack1920/hydra/conf/server/acl/blacklist"
+	"github.com/chack1920/hydra/conf/server/acl/limiter"
+	"github.com/chack1920/hydra/conf/server/acl/whitelist"
+	"github.com/chack1920/hydra/conf/server/api"
+	"github.com/chack1920/hydra/conf/server/auth/apikey"
+	"github.com/chack1920/hydra/conf/server/auth/basic"
+	"github.com/chack1920/hydra/conf/server/auth/jwt"
+	"github.com/chack1920/hydra/conf/server/auth/ras"
+	"github.com/chack1920/hydra/conf/server/header"
+	"github.com/chack1920/hydra/conf/server/static"
 )
 
 func Test_newHTTP(t *testing.T) {

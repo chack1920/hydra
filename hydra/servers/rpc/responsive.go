@@ -5,13 +5,13 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/conf/server/rpc"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers"
-	"psbnb.com/greatsun/hydra/registry/pub"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/server/rpc"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers"
+	"github.com/chack1920/hydra/registry/pub"
+	"github.com/chack1920/hydra/services"
 )
 
 // Responsive 响应式服务器

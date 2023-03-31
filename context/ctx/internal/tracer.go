@@ -6,7 +6,7 @@ import (
 	"github.com/SkyAPM/go2sky"
 	"github.com/SkyAPM/go2sky/reporter"
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/app"
 )
 
 // Tracer 跟踪器

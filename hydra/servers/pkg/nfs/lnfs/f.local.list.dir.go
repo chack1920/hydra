@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/security/md5"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 // GetDirList 获以文件列表

@@ -1,11 +1,11 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/vars/redis"
-	"psbnb.com/greatsun/hydra/conf/vars/rpc"
+	"github.com/chack1920/hydra/conf/vars/redis"
+	"github.com/chack1920/hydra/conf/vars/rpc"
 
-	"psbnb.com/greatsun/hydra/conf/vars/http"
-	"psbnb.com/greatsun/hydra/conf/vars/rlog"
+	"github.com/chack1920/hydra/conf/vars/http"
+	"github.com/chack1920/hydra/conf/vars/rlog"
 )
 
 type vars map[string]map[string]interface{}

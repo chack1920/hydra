@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 var ak = "HNO8VUJFPF8KLMSHPPQF"

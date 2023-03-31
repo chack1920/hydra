@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	vc "psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/server/apm"
-	"psbnb.com/greatsun/hydra/conf/server/metric"
+	vc "github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/server/apm"
+	"github.com/chack1920/hydra/conf/server/metric"
 )
 
 type ISUB interface {

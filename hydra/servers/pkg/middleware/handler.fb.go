@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/services"
 )
 
 func fallback(ctx IMiddleContext, service string) bool {

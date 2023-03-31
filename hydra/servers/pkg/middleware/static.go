@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/services"
 )
 
 // Static 静态文件处理插件

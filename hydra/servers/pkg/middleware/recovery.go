@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 // Recovery 用于处理请求过程中出现的非预见的错误

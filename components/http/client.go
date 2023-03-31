@@ -2,10 +2,10 @@ package http
 
 import (
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/container"
-	"psbnb.com/greatsun/hydra/components/pkgs/http"
-	"psbnb.com/greatsun/hydra/conf"
-	httpconf "psbnb.com/greatsun/hydra/conf/vars/http"
+	"github.com/chack1920/hydra/components/container"
+	"github.com/chack1920/hydra/components/pkgs/http"
+	"github.com/chack1920/hydra/conf"
+	httpconf "github.com/chack1920/hydra/conf/vars/http"
 )
 
 // StandardHTTPClient db

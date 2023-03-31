@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/server/cron"
-	"psbnb.com/greatsun/hydra/conf/server/task"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf/server/cron"
+	"github.com/chack1920/hydra/conf/server/task"
+	"github.com/chack1920/hydra/services"
 )
 
 func Test_newCron(t *testing.T) {

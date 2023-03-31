@@ -6,8 +6,8 @@ package internal
 
 // 	"github.com/SkyAPM/go2sky"
 // 	"github.com/SkyAPM/go2sky/reporter"
-// 	"psbnb.com/greatsun/hydra/conf/app"
-// 	"psbnb.com/greatsun/hydra/conf/server/apm"
+// 	"github.com/chack1920/hydra/conf/app"
+// 	"github.com/chack1920/hydra/conf/server/apm"
 // 	"github.com/micro-plat/lib4go/concurrent/cmap"
 // )
 

@@ -1,10 +1,10 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/vars/queue"
-	queuelmq "psbnb.com/greatsun/hydra/conf/vars/queue/lmq"
-	queuemqtt "psbnb.com/greatsun/hydra/conf/vars/queue/mqtt"
-	"psbnb.com/greatsun/hydra/conf/vars/queue/queueredis"
+	"github.com/chack1920/hydra/conf/vars/queue"
+	queuelmq "github.com/chack1920/hydra/conf/vars/queue/lmq"
+	queuemqtt "github.com/chack1920/hydra/conf/vars/queue/mqtt"
+	"github.com/chack1920/hydra/conf/vars/queue/queueredis"
 )
 
 // Varqueue 消息队列配置

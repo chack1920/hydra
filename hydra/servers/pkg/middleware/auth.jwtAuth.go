@@ -5,9 +5,9 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/errs"
-	xjwt "psbnb.com/greatsun/hydra/conf/server/auth/jwt"
-	"psbnb.com/greatsun/hydra/conf/server/header"
-	"psbnb.com/greatsun/hydra/context"
+	xjwt "github.com/chack1920/hydra/conf/server/auth/jwt"
+	"github.com/chack1920/hydra/conf/server/header"
+	"github.com/chack1920/hydra/context"
 )
 
 // JwtAuth jwt

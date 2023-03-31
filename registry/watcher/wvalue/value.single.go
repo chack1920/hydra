@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/registry"
-	"psbnb.com/greatsun/hydra/registry/watcher"
+	"github.com/chack1920/hydra/registry"
+	"github.com/chack1920/hydra/registry/watcher"
 )
 
 // SingleValueWatcher 监控器

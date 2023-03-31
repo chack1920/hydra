@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/errs"
-	"psbnb.com/greatsun/hydra/conf/server/auth"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/conf/server/auth"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 // GetDirList 获取本机目录信息

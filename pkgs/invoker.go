@@ -1,7 +1,7 @@
 package pkgs
 
 import (
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 // FnInvoker 调用函数，用于指定调用本地服务的函数签名格式

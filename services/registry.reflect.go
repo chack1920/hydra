@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
 )
 
 var suffixList = []string{defHandling, defHandler, defHandled, defFallback}

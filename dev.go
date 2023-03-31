@@ -3,4 +3,4 @@
 
 package hydra
 
-import _ "psbnb.com/greatsun/hydra/hydra/cmds/db"
+import _ "github.com/chack1920/hydra/hydra/cmds/db"

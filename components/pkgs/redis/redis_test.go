@@ -3,7 +3,7 @@ package redis
 import (
 	"testing"
 
-	varredis "psbnb.com/greatsun/hydra/conf/vars/redis"
+	varredis "github.com/chack1920/hydra/conf/vars/redis"
 )
 
 func TestNew(t *testing.T) {

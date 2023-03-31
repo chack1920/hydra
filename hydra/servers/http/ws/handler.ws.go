@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 //upgrader 处理ws请求

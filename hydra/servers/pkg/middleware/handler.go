@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/services"
 )
 
 // ExecuteHandler 业务处理Handler

@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/pkgs"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/pkgs"
 )
 
 // CallRPC RPC调用

@@ -1,9 +1,9 @@
 package server
 
 import (
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/server/mqc"
-	"psbnb.com/greatsun/hydra/conf/server/queue"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/server/mqc"
+	"github.com/chack1920/hydra/conf/server/queue"
 )
 
 type MQCSub struct {

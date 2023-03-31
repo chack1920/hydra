@@ -7,8 +7,8 @@ import (
 
 	"github.com/micro-plat/lib4go/assert"
 	"github.com/micro-plat/lib4go/net"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/global"
 )
 
 func TestNewServer(t *testing.T) {

@@ -5,10 +5,10 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/context/ctx"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/dispatcher"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/context/ctx"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers/pkg/dispatcher"
 )
 
 type imiddle interface {

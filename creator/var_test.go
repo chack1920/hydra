@@ -4,13 +4,13 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/vars/cache/cacheredis"
-	"psbnb.com/greatsun/hydra/conf/vars/db/mysql"
-	"psbnb.com/greatsun/hydra/conf/vars/http"
-	"psbnb.com/greatsun/hydra/conf/vars/queue/queueredis"
-	"psbnb.com/greatsun/hydra/conf/vars/redis"
-	"psbnb.com/greatsun/hydra/conf/vars/rlog"
-	"psbnb.com/greatsun/hydra/conf/vars/rpc"
+	"github.com/chack1920/hydra/conf/vars/cache/cacheredis"
+	"github.com/chack1920/hydra/conf/vars/db/mysql"
+	"github.com/chack1920/hydra/conf/vars/http"
+	"github.com/chack1920/hydra/conf/vars/queue/queueredis"
+	"github.com/chack1920/hydra/conf/vars/redis"
+	"github.com/chack1920/hydra/conf/vars/rlog"
+	"github.com/chack1920/hydra/conf/vars/rpc"
 )
 
 func Test_vars_DB(t *testing.T) {

@@ -1,4 +1,4 @@
-module psbnb.com/greatsun/hydra
+module github.com/chack1920/hydra
 
 go 1.20
 

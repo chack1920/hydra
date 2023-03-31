@@ -7,9 +7,9 @@ import (
 
 	"github.com/micro-plat/lib4go/errs"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 // remoting 远程管理

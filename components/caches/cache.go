@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/caches/cache"
-	"psbnb.com/greatsun/hydra/components/container"
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/components/caches/cache"
+	"github.com/chack1920/hydra/components/container"
+	"github.com/chack1920/hydra/conf"
 )
 
 const (

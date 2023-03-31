@@ -5,14 +5,14 @@ import (
 
 	"github.com/micro-plat/lib4go/assert"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/server/api"
-	"psbnb.com/greatsun/hydra/conf/server/cron"
-	"psbnb.com/greatsun/hydra/conf/server/metric"
-	"psbnb.com/greatsun/hydra/conf/server/mqc"
-	"psbnb.com/greatsun/hydra/conf/server/rpc"
-	"psbnb.com/greatsun/hydra/conf/server/static"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers"
+	"github.com/chack1920/hydra/conf/server/api"
+	"github.com/chack1920/hydra/conf/server/cron"
+	"github.com/chack1920/hydra/conf/server/metric"
+	"github.com/chack1920/hydra/conf/server/mqc"
+	"github.com/chack1920/hydra/conf/server/rpc"
+	"github.com/chack1920/hydra/conf/server/static"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers"
 )
 
 func TestNew(t *testing.T) {

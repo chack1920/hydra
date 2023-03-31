@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/mattn/go-oci8"
-	r "psbnb.com/greatsun/hydra/registry"
+	r "github.com/chack1920/hydra/registry"
 )
 
 func getRegistryForTest(provider string) (r.IRegistry, error) {

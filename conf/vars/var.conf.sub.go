@@ -1,8 +1,8 @@
 package vars
 
 import (
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/vars/rlog"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/vars/rlog"
 )
 
 type VarSub struct {

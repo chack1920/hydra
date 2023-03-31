@@ -1,10 +1,10 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/vars/cache"
-	"psbnb.com/greatsun/hydra/conf/vars/cache/cacheredis"
-	gocache "psbnb.com/greatsun/hydra/conf/vars/cache/gocache"
-	memcached "psbnb.com/greatsun/hydra/conf/vars/cache/memcached"
+	"github.com/chack1920/hydra/conf/vars/cache"
+	"github.com/chack1920/hydra/conf/vars/cache/cacheredis"
+	gocache "github.com/chack1920/hydra/conf/vars/cache/gocache"
+	memcached "github.com/chack1920/hydra/conf/vars/cache/memcached"
 )
 
 // Varcache 缓存配置对象

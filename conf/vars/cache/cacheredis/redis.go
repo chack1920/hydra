@@ -8,9 +8,9 @@ import (
 	"github.com/asaskevich/govalidator"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/conf/vars/cache"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/vars/cache"
 )
 
 // Redis redis缓存配置

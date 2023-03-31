@@ -12,10 +12,10 @@ import (
 	"github.com/micro-plat/lib4go/security/md5"
 	"github.com/micro-plat/lib4go/security/sha1"
 	"github.com/micro-plat/lib4go/security/sha256"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
-	"psbnb.com/greatsun/hydra/pkgs"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/pkgs"
+	"github.com/chack1920/hydra/registry"
 )
 
 const (

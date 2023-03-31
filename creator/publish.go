@@ -6,11 +6,11 @@ import (
 	"reflect"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
-	"psbnb.com/greatsun/hydra/conf/server"
-	varpub "psbnb.com/greatsun/hydra/conf/vars"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/conf/server"
+	varpub "github.com/chack1920/hydra/conf/vars"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
 )
 
 // Pub 将配置发布到配置中心

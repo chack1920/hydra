@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/components/dbs"
+	"github.com/chack1920/hydra/components/dbs"
 )
 
 type tmpNodeWatchers struct {

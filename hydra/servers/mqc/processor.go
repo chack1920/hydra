@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
-	"psbnb.com/greatsun/hydra/conf/server/queue"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/adapter"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/conf/server/queue"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/hydra/servers/pkg/adapter"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 const (

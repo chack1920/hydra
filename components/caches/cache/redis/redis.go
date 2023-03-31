@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	"psbnb.com/greatsun/hydra/components/caches/cache"
-	"psbnb.com/greatsun/hydra/components/pkgs/redis"
-	"psbnb.com/greatsun/hydra/conf/vars/cache/cacheredis"
-	varredis "psbnb.com/greatsun/hydra/conf/vars/redis"
+	"github.com/chack1920/hydra/components/caches/cache"
+	"github.com/chack1920/hydra/components/pkgs/redis"
+	"github.com/chack1920/hydra/conf/vars/cache/cacheredis"
+	varredis "github.com/chack1920/hydra/conf/vars/redis"
 )
 
 // Proto Proto

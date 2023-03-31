@@ -6,8 +6,8 @@ import (
 
 	"github.com/micro-plat/lib4go/tgo"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/global"
 )
 
 const (

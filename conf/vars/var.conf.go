@@ -3,9 +3,9 @@ package vars
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/registry"
 )
 
 var _ conf.IVarConf = &VarConf{}

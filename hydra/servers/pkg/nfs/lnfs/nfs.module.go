@@ -11,9 +11,9 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"github.com/micro-plat/lib4go/errs"
 	"github.com/micro-plat/lib4go/utility"
-	"psbnb.com/greatsun/hydra/conf/server/nfs"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/internal"
+	"github.com/chack1920/hydra/conf/server/nfs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/internal"
 )
 
 // Module 协调本地文件、本地指纹、远程指纹等处理

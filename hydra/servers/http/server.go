@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/adapter"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers/pkg/adapter"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 // Server api服务器

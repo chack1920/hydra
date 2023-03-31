@@ -2,7 +2,7 @@ package server
 
 import (
 	"github.com/micro-plat/lib4go/utility"
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 type cwatcher struct {

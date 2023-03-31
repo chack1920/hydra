@@ -6,8 +6,8 @@ import (
 
 	"github.com/micro-plat/lib4go/assert"
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/conf/server/task"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/conf/server/task"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 func TestNewProcessor(t *testing.T) {

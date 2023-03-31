@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 func (r *localMemory) getPaths(path string) []string {

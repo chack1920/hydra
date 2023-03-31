@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/context"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/context"
 )
 
 func Test_serverHook_AddStarting(t *testing.T) {

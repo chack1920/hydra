@@ -3,7 +3,7 @@ package watcher
 import (
 	"strings"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // IChildWatcher 注册中心节点监控

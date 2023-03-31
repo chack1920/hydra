@@ -3,8 +3,8 @@ package servers
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/global"
 )
 
 // IServerCreatorHandler 服务器创建器

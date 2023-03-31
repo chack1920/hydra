@@ -12,8 +12,8 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/encoding"
-	varhttp "psbnb.com/greatsun/hydra/conf/vars/http"
-	"psbnb.com/greatsun/hydra/context"
+	varhttp "github.com/chack1920/hydra/conf/vars/http"
+	"github.com/chack1920/hydra/context"
 )
 
 func (c *Client) Request(method string, url string, params string, charset string, header http.Header, cookies ...*http.Cookie) (content []byte, status int, err error) {

@@ -1,6 +1,6 @@
 package whitelist
 
-import "psbnb.com/greatsun/hydra/conf"
+import "github.com/chack1920/hydra/conf"
 
 // Option 配置选项
 type Option func(*WhiteList)

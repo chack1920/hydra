@@ -5,8 +5,8 @@ import (
 
 	"github.com/micro-plat/lib4go/errs"
 	"github.com/micro-plat/lib4go/security/jwt"
-	xjwt "psbnb.com/greatsun/hydra/conf/server/auth/jwt"
-	"psbnb.com/greatsun/hydra/conf/server/header"
+	xjwt "github.com/chack1920/hydra/conf/server/auth/jwt"
+	"github.com/chack1920/hydra/conf/server/header"
 )
 
 // JwtWriter 将jwt信息写入到请求中

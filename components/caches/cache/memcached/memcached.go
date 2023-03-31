@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/bradfitz/gomemcache/memcache"
-	"psbnb.com/greatsun/hydra/components/caches/cache"
-	"psbnb.com/greatsun/hydra/conf/vars/cache/memcached"
+	"github.com/chack1920/hydra/components/caches/cache"
+	"github.com/chack1920/hydra/conf/vars/cache/memcached"
 )
 
 // Proto Proto

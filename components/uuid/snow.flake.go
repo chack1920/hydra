@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 // 因为UUID目的是解决分布式下生成唯一id 所以ID中是包含集群和节点编号在内的

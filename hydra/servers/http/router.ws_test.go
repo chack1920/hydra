@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/server/router"
+	"github.com/chack1920/hydra/conf/server/router"
 )
 
 func TestServer_addWSRouters(t *testing.T) {

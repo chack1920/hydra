@@ -13,8 +13,8 @@ import (
 
 	"github.com/clbanning/mxj"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/creator"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/creator"
 )
 
 // mock 用于context的mock包

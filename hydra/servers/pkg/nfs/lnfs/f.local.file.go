@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 // SaveFile 保存文件

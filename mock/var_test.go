@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"psbnb.com/greatsun/hydra"
+	"github.com/chack1920/hydra"
 )
 
 type ts struct {

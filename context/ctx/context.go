@@ -7,13 +7,13 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/context/ctx/internal"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/pkgs"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/context/ctx/internal"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/pkgs"
+	"github.com/chack1920/hydra/services"
 )
 
 var _ context.IContext = &Ctx{}

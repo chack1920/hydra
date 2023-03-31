@@ -2,11 +2,11 @@ package status
 
 import (
 	"github.com/lib4dev/cli/cmds"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs/service"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs/service"
 )
 
 var isFixed bool

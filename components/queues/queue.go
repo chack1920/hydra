@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/container"
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/components/container"
+	"github.com/chack1920/hydra/conf"
 )
 
 // queueTypeNode queue在var配置中的类型名称

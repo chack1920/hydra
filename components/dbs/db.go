@@ -5,10 +5,10 @@ import (
 
 	"github.com/micro-plat/lib4go/db"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/container"
+	"github.com/chack1920/hydra/components/container"
 
-	"psbnb.com/greatsun/hydra/conf"
-	xdb "psbnb.com/greatsun/hydra/conf/vars/db"
+	"github.com/chack1920/hydra/conf"
+	xdb "github.com/chack1920/hydra/conf/vars/db"
 )
 
 const (

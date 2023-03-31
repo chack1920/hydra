@@ -9,9 +9,9 @@ import (
 	logs "github.com/lib4dev/cli/logger"
 	"github.com/micro-plat/lib4go/types"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/creator"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/global/compatible"
+	"github.com/chack1920/hydra/creator"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/global/compatible"
 )
 
 // Pub2Registry 发布到注册中心

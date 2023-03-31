@@ -2,9 +2,9 @@ package ctx
 
 import (
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/context/ctx/internal"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/context/ctx/internal"
 )
 
 type tracer struct {

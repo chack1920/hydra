@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	//"psbnb.com/greatsun/hydra/global/compatible"
+	//"github.com/chack1920/hydra/global/compatible"
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/micro-plat/lib4go/registry"
-	r "psbnb.com/greatsun/hydra/registry"
+	r "github.com/chack1920/hydra/registry"
 )
 
 var _ r.IRegistry = &fs{}

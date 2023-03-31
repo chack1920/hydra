@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/context"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/context"
 )
 
 type serverHook struct {

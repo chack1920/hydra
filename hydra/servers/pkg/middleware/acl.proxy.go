@@ -6,7 +6,7 @@ import (
 	"net/http/httputil"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf/server/acl/proxy"
+	"github.com/chack1920/hydra/conf/server/acl/proxy"
 )
 
 // Proxy 代理配置

@@ -3,7 +3,7 @@ package redis
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/registry/registry/redis/internal"
+	"github.com/chack1920/hydra/registry/registry/redis/internal"
 )
 
 // Delete 删除节点

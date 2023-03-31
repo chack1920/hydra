@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"psbnb.com/greatsun/hydra/components/pkgs/influxdb/models"
+	"github.com/chack1920/hydra/components/pkgs/influxdb/models"
 )
 
 // HTTPConfig is the config data needed to create an HTTP Client.

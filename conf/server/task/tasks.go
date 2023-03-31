@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/asaskevich/govalidator"
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 // TypeNodeName 分类节点名

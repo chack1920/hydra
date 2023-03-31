@@ -11,11 +11,11 @@ import (
 	"fmt"
 
 	"github.com/micro-plat/lib4go/db"
-	"psbnb.com/greatsun/hydra/components/dbs"
-	xdb "psbnb.com/greatsun/hydra/conf/vars/db"
-	"psbnb.com/greatsun/hydra/conf/vars/db/mysql"
-	"psbnb.com/greatsun/hydra/conf/vars/db/oracle"
-	r "psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/components/dbs"
+	xdb "github.com/chack1920/hydra/conf/vars/db"
+	"github.com/chack1920/hydra/conf/vars/db/mysql"
+	"github.com/chack1920/hydra/conf/vars/db/oracle"
+	r "github.com/chack1920/hydra/registry"
 )
 
 type DBR struct {

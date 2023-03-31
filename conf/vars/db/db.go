@@ -1,6 +1,6 @@
 package db
 
-import "psbnb.com/greatsun/hydra/conf/pkgs/security"
+import "github.com/chack1920/hydra/conf/pkgs/security"
 
 // TypeNodeName 分类节点名
 const TypeNodeName = "db"

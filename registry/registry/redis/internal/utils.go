@@ -3,7 +3,7 @@ package internal
 import (
 	"strings"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // SwapKey 将”/"转换回 “：”拆分

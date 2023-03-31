@@ -5,9 +5,9 @@ import (
 	"net"
 	"sync"
 
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/conf/server/nfs"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/server/nfs"
 )
 
 // currentModule 当前Module

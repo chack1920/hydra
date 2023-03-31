@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"psbnb.com/greatsun/hydra/components/pkgs/influxdb/models"
+	"github.com/chack1920/hydra/components/pkgs/influxdb/models"
 )
 
 const (

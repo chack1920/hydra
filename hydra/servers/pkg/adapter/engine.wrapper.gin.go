@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 // GinEngine GinEngine

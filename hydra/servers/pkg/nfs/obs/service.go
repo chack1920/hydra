@@ -11,9 +11,9 @@ import (
 
 	"github.com/micro-plat/lib4go/errs"
 	"github.com/micro-plat/lib4go/security/md5"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/internal"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/obs/obs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/internal"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/obs/obs"
 )
 
 // type Infs interface {

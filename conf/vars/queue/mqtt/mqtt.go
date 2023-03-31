@@ -5,7 +5,7 @@ import (
 
 	"github.com/asaskevich/govalidator"
 
-	"psbnb.com/greatsun/hydra/conf/vars/queue"
+	"github.com/chack1920/hydra/conf/vars/queue"
 )
 
 // MQTT MQTT对列配置

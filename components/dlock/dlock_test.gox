@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	_ "psbnb.com/greatsun/hydra/registry/registry/zookeeper"
+	_ "github.com/chack1920/hydra/registry/registry/zookeeper"
 	"github.com/micro-plat/lib4go/logger"
 )
 

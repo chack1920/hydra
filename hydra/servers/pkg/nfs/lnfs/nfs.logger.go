@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
 )
 
 type reqLog struct {

@@ -9,11 +9,11 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc"
-	"psbnb.com/greatsun/hydra/conf/vars/rlog"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/components/rpcs/rpc"
+	"github.com/chack1920/hydra/conf/vars/rlog"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
 )
 
 // RPCAppender 文件输出器

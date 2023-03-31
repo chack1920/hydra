@@ -2,10 +2,10 @@ package http
 
 import (
 	"github.com/gin-gonic/gin"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/hydra/servers/http/ws"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/adapter"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/hydra/servers/http/ws"
+	"github.com/chack1920/hydra/hydra/servers/pkg/adapter"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 func (s *Server) addWSRouters(routers ...*router.Router) {

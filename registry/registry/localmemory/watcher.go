@@ -5,7 +5,7 @@ import (
 
 	"github.com/micro-plat/lib4go/errs"
 	"github.com/micro-plat/lib4go/registry"
-	r "psbnb.com/greatsun/hydra/registry"
+	r "github.com/chack1920/hydra/registry"
 )
 
 func (l *localMemory) WatchValue(path string) (data chan registry.ValueWatcher, err error) {

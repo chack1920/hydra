@@ -9,7 +9,7 @@ import (
 
 	"github.com/asaskevich/govalidator"
 	"github.com/micro-plat/lib4go/security/md5"
-	"psbnb.com/greatsun/hydra/global/compatible"
+	"github.com/chack1920/hydra/global/compatible"
 
 	xnet "github.com/micro-plat/lib4go/net"
 )

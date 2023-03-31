@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/zk"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // zookeeper 基于zookeeper的注册中心

@@ -7,10 +7,10 @@ import (
 
 	"errors"
 
-	"psbnb.com/greatsun/hydra/components/pkgs/redis"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
-	"psbnb.com/greatsun/hydra/conf/vars/queue/queueredis"
-	varredis "psbnb.com/greatsun/hydra/conf/vars/redis"
+	"github.com/chack1920/hydra/components/pkgs/redis"
+	"github.com/chack1920/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/conf/vars/queue/queueredis"
+	varredis "github.com/chack1920/hydra/conf/vars/redis"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/logger"

@@ -3,9 +3,9 @@ package adapter
 import (
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/dispatcher"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/hydra/servers/pkg/dispatcher"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 // DispatcherEngine DispatcherEngine

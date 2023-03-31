@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/registry/registry/redis/internal"
+	"github.com/chack1920/hydra/registry/registry/redis/internal"
 )
 
 // GetValue 获取节点值

@@ -3,7 +3,7 @@ package mqc
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 // Option 配置选项

@@ -2,14 +2,14 @@ package mock
 
 import (
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/context/ctx"
-	"psbnb.com/greatsun/hydra/creator"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers/http"
-	_ "psbnb.com/greatsun/hydra/registry/registry/localmemory"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/context/ctx"
+	"github.com/chack1920/hydra/creator"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers/http"
+	_ "github.com/chack1920/hydra/registry/registry/localmemory"
+	"github.com/chack1920/hydra/services"
 )
 
 // NewContext 创建mock类型的Context包

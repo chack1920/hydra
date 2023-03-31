@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"psbnb.com/greatsun/hydra/conf/vars/cache/memcached"
+	"github.com/chack1920/hydra/conf/vars/cache/memcached"
 )
 
 func TestClient_Set(t *testing.T) {

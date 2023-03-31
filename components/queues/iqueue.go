@@ -1,10 +1,10 @@
 package queues
 
 import (
-	"psbnb.com/greatsun/hydra/components/pkgs"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/components/pkgs"
+	"github.com/chack1920/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
 )
 
 //IQueue 消息队列

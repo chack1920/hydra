@@ -6,11 +6,11 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
 )
 
 const defHandling = "Handling"

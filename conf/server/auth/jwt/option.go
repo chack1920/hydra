@@ -1,6 +1,6 @@
 package jwt
 
-import "psbnb.com/greatsun/hydra/conf/server/auth"
+import "github.com/chack1920/hydra/conf/server/auth"
 
 // Option jwt配置选项
 type Option func(*JWTAuth)

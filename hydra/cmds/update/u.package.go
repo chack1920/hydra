@@ -16,8 +16,8 @@ import (
 	"github.com/micro-plat/lib4go/errs"
 	"github.com/micro-plat/lib4go/logger"
 	"github.com/micro-plat/lib4go/sysinfo/pipes"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/global"
 )
 
 // GetPackage 获取文件package信息

@@ -6,8 +6,8 @@ import (
 
 	"google.golang.org/grpc/balancer"
 	"google.golang.org/grpc/balancer/base"
-	rpcconf "psbnb.com/greatsun/hydra/conf/vars/rpc"
-	"psbnb.com/greatsun/hydra/global"
+	rpcconf "github.com/chack1920/hydra/conf/vars/rpc"
+	"github.com/chack1920/hydra/global"
 )
 
 // newBuilder creates a new roundrobin balancer builder.

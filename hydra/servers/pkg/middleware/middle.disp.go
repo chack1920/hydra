@@ -11,8 +11,8 @@ import (
 	"net/url"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/dispatcher"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers/pkg/dispatcher"
 )
 
 type buffer struct {

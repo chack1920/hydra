@@ -12,9 +12,9 @@ import (
 	"github.com/micro-plat/lib4go/security/jwt"
 	"github.com/micro-plat/lib4go/types"
 	"github.com/micro-plat/lib4go/utility"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/registry"
 )
 
 const (

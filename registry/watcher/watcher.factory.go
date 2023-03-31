@@ -2,7 +2,7 @@ package watcher
 
 import (
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // IChildWatcherFactory watcher生成器

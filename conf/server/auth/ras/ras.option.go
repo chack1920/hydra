@@ -1,7 +1,7 @@
 package ras
 
 import (
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 // Option 配置选项

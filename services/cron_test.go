@@ -15,7 +15,7 @@ import (
 
 	"github.com/micro-plat/lib4go/assert"
 	"github.com/micro-plat/lib4go/security/md5"
-	"psbnb.com/greatsun/hydra/conf/server/task"
+	"github.com/chack1920/hydra/conf/server/task"
 )
 
 func Test_cron_Add(t *testing.T) {

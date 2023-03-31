@@ -7,12 +7,12 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/pkgs"
+	"github.com/chack1920/hydra/pkgs"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/components/rpcs/balancer"
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc/pb"
-	rpcconf "psbnb.com/greatsun/hydra/conf/vars/rpc"
+	"github.com/chack1920/hydra/components/rpcs/balancer"
+	"github.com/chack1920/hydra/components/rpcs/rpc/pb"
+	rpcconf "github.com/chack1920/hydra/conf/vars/rpc"
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"

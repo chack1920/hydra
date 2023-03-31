@@ -11,9 +11,9 @@ import (
 
 	"github.com/micro-plat/lib4go/logger"
 	"github.com/micro-plat/lib4go/utility"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
-	queuemqtt "psbnb.com/greatsun/hydra/conf/vars/queue/mqtt"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/components/queues/mq"
+	queuemqtt "github.com/chack1920/hydra/conf/vars/queue/mqtt"
+	"github.com/chack1920/hydra/global"
 
 	"github.com/micro-plat/gmq/mqtt"
 	"github.com/micro-plat/gmq/mqtt/client"

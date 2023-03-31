@@ -9,8 +9,8 @@ import (
 
 	"github.com/micro-plat/lib4go/encoding"
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
-	"psbnb.com/greatsun/hydra/conf/vars/queue/xmq"
+	"github.com/chack1920/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/conf/vars/queue/xmq"
 )
 
 // Producer Producer

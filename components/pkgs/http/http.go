@@ -11,7 +11,7 @@ import (
 
 	"time"
 
-	varhttp "psbnb.com/greatsun/hydra/conf/vars/http"
+	varhttp "github.com/chack1920/hydra/conf/vars/http"
 )
 
 // Client HTTP客户端

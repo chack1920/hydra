@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	r "psbnb.com/greatsun/hydra/registry"
+	r "github.com/chack1920/hydra/registry"
 )
 
 func Test_dbrFactory_Create(t *testing.T) {

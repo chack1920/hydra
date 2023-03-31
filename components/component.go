@@ -3,22 +3,22 @@ package components
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/components/caches"
-	"psbnb.com/greatsun/hydra/components/container"
-	"psbnb.com/greatsun/hydra/components/dbs"
-	"psbnb.com/greatsun/hydra/components/dlock"
-	"psbnb.com/greatsun/hydra/components/http"
-	"psbnb.com/greatsun/hydra/components/queues"
-	"psbnb.com/greatsun/hydra/components/rpcs"
-	"psbnb.com/greatsun/hydra/components/uuid"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/components/caches"
+	"github.com/chack1920/hydra/components/container"
+	"github.com/chack1920/hydra/components/dbs"
+	"github.com/chack1920/hydra/components/dlock"
+	"github.com/chack1920/hydra/components/http"
+	"github.com/chack1920/hydra/components/queues"
+	"github.com/chack1920/hydra/components/rpcs"
+	"github.com/chack1920/hydra/components/uuid"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
 
-	_ "psbnb.com/greatsun/hydra/components/queues/mq/lmq"
-	_ "psbnb.com/greatsun/hydra/components/queues/mq/mqtt"
-	_ "psbnb.com/greatsun/hydra/components/queues/mq/redis"
-	_ "psbnb.com/greatsun/hydra/components/queues/mq/xmq"
+	_ "github.com/chack1920/hydra/components/queues/mq/lmq"
+	_ "github.com/chack1920/hydra/components/queues/mq/mqtt"
+	_ "github.com/chack1920/hydra/components/queues/mq/redis"
+	_ "github.com/chack1920/hydra/components/queues/mq/xmq"
 )
 
 // IComponent 组件

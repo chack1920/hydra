@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 // TypeNodeName header配置节点名

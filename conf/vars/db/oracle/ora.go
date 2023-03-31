@@ -3,7 +3,7 @@ package oracle
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/conf/vars/db"
+	"github.com/chack1920/hydra/conf/vars/db"
 )
 
 // Oracle oracle数据库连接信息

@@ -2,8 +2,8 @@ package run
 
 import (
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs"
 )
 
 // getFlags 获取运行时的参数

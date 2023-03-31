@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/server"
-	varpub "psbnb.com/greatsun/hydra/conf/vars"
+	"github.com/chack1920/hydra/conf/server"
+	varpub "github.com/chack1920/hydra/conf/vars"
 )
 
 // getValue 当导入配置存在相同路径时，则将导入数据转换成结构体或直接返回

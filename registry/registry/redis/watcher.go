@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 
 	"github.com/micro-plat/lib4go/registry"
-	"psbnb.com/greatsun/hydra/registry/registry/redis/internal"
+	"github.com/chack1920/hydra/registry/registry/redis/internal"
 )
 
 type valueWatcher struct {

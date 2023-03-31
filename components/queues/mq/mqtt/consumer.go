@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 	"github.com/micro-plat/lib4go/concurrent/cmap"
@@ -18,9 +18,9 @@ import (
 	"github.com/micro-plat/lib4go/types"
 	"github.com/micro-plat/lib4go/utility"
 	"github.com/zkfy/stompngo"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/components/queues/mq"
 
-	queuemqtt "psbnb.com/greatsun/hydra/conf/vars/queue/mqtt"
+	queuemqtt "github.com/chack1920/hydra/conf/vars/queue/mqtt"
 )
 
 type consumerChan struct {

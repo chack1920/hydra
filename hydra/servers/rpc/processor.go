@@ -7,10 +7,10 @@ import (
 
 	"github.com/micro-plat/lib4go/jsons"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc/pb"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/adapter"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/components/rpcs/rpc/pb"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/hydra/servers/pkg/adapter"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 // Processor cron管理程序，用于管理多个任务的执行，暂停，恢复，动态添加，移除

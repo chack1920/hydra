@@ -3,7 +3,7 @@ package cron
 import (
 	"time"
 
-	"psbnb.com/greatsun/hydra/conf/server/cron"
+	"github.com/chack1920/hydra/conf/server/cron"
 )
 
 func (w *Responsive) watch() {

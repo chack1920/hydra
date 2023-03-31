@@ -1,6 +1,6 @@
 package vars
 
-import "psbnb.com/greatsun/hydra/registry"
+import "github.com/chack1920/hydra/registry"
 
 type varPub struct {
 	platName string

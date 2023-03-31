@@ -7,9 +7,9 @@ import (
 
 	"github.com/asaskevich/govalidator"
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/registry"
 )
 
 // LogName rlog 的日志名

@@ -7,9 +7,9 @@ import (
 	"time"
 
 	gocache "github.com/zkfy/go-cache"
-	"psbnb.com/greatsun/hydra/components/caches/cache"
-	vargocache "psbnb.com/greatsun/hydra/conf/vars/cache/gocache"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/components/caches/cache"
+	vargocache "github.com/chack1920/hydra/conf/vars/cache/gocache"
+	"github.com/chack1920/hydra/global"
 )
 
 // Proto Proto

@@ -7,9 +7,9 @@ import (
 	"github.com/micro-plat/lib4go/encoding/base64"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/pkgs"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
-	"psbnb.com/greatsun/hydra/conf/server/queue"
+	"github.com/chack1920/hydra/components/pkgs"
+	"github.com/chack1920/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/conf/server/queue"
 )
 
 // DefMethod DefMethod

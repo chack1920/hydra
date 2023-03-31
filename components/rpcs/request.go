@@ -6,12 +6,12 @@ import (
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/pkgs"
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc"
-	rpcconf "psbnb.com/greatsun/hydra/conf/vars/rpc"
-	rc "psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
-	npkgs "psbnb.com/greatsun/hydra/pkgs"
+	"github.com/chack1920/hydra/components/pkgs"
+	"github.com/chack1920/hydra/components/rpcs/rpc"
+	rpcconf "github.com/chack1920/hydra/conf/vars/rpc"
+	rc "github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
+	npkgs "github.com/chack1920/hydra/pkgs"
 )
 
 var requests = cmap.New(4)

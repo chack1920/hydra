@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/creator"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/creator"
+	"github.com/chack1920/hydra/global"
 )
 
 // Option 配置选项

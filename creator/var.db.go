@@ -1,9 +1,9 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/vars/db"
-	"psbnb.com/greatsun/hydra/conf/vars/db/mysql"
-	"psbnb.com/greatsun/hydra/conf/vars/db/oracle"
+	"github.com/chack1920/hydra/conf/vars/db"
+	"github.com/chack1920/hydra/conf/vars/db/mysql"
+	"github.com/chack1920/hydra/conf/vars/db/oracle"
 )
 
 // Vardb db配置

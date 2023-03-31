@@ -1,8 +1,8 @@
 package server
 
 import (
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/server/task"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/server/task"
 )
 
 type CronSub struct {

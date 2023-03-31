@@ -1,6 +1,6 @@
 package api
 
-import "psbnb.com/greatsun/hydra/conf/server/router"
+import "github.com/chack1920/hydra/conf/server/router"
 
 // WithEncoding 添加编码
 var WithEncoding = router.WithEncoding

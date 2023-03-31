@@ -1,6 +1,6 @@
 package rpc
 
-import "psbnb.com/greatsun/hydra/conf/pkgs/security"
+import "github.com/chack1920/hydra/conf/pkgs/security"
 
 // RPCTypeNode rpc在var配置中的类型名称
 const RPCTypeNode = "rpc"

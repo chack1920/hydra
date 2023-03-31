@@ -1,8 +1,8 @@
 package http
 
 import (
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
-	_ "psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
+	_ "github.com/chack1920/hydra/hydra/servers/pkg/nfs"
 )
 
 var middlewares = make(middleware.Handlers, 0, 1)

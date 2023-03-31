@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/registry"
 )
 
 type handlerType int

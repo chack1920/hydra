@@ -1,6 +1,6 @@
 package caches
 
-import "psbnb.com/greatsun/hydra/components/caches/cache"
+import "github.com/chack1920/hydra/components/caches/cache"
 
 // ICache 缓存接口
 type ICache = cache.ICache

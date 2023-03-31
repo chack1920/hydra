@@ -6,10 +6,10 @@ import (
 
 	"github.com/micro-plat/lib4go/net"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/conf/server/auth/apikey"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/conf/server/auth/apikey"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/global"
 )
 
 // APIKeyAuth 静态密钥验证

@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/tgo"
-	"psbnb.com/greatsun/hydra/context/internal"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/context/internal"
+	"github.com/chack1920/hydra/global"
 )
 
 // GetTGOModules 获取tgo的模块配置信息

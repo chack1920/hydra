@@ -7,8 +7,8 @@ package services
 import (
 	"sync"
 
-	"psbnb.com/greatsun/hydra/conf/server/task"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf/server/task"
+	"github.com/chack1920/hydra/global"
 )
 
 type subscriber struct {

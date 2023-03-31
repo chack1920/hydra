@@ -10,7 +10,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra"
+	"github.com/chack1920/hydra"
 )
 
 // local 本地文件管理

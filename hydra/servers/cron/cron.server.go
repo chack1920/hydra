@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/conf/server/task"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/conf/server/task"
+	"github.com/chack1920/hydra/global"
 )
 
 // Server cron服务器

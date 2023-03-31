@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/components/queues/mq"
 )
 
 var queues cmap.ConcurrentMap

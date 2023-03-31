@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"github.com/gin-gonic/gin"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/dispatcher"
+	"github.com/chack1920/hydra/hydra/servers/pkg/dispatcher"
 )
 
 // Handlers 中间件处理函数

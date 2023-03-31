@@ -1,9 +1,9 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/server/cron"
-	"psbnb.com/greatsun/hydra/conf/server/task"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf/server/cron"
+	"github.com/chack1920/hydra/conf/server/task"
+	"github.com/chack1920/hydra/services"
 )
 
 type cronBuilder struct {

@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/conf/server/nfs"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/lnfs"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/obs"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/conf/server/nfs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/lnfs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/obs"
 )
 
 func getNFS(app app.IAPPConf, c *nfs.NFS) infs.Infs {

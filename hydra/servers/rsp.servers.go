@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
-	"psbnb.com/greatsun/hydra/registry/watcher"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
+	"github.com/chack1920/hydra/registry/watcher"
 )
 
 // RspServers 响应式服务管理器,监控配置变更自动创建、停止服务器

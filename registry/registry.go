@@ -8,7 +8,7 @@ import (
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/logger"
 	"github.com/micro-plat/lib4go/registry"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 // LocalMemory 本地内存模式

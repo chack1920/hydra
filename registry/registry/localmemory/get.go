@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 func (l *localMemory) GetValue(path string) (data []byte, version int32, err error) {

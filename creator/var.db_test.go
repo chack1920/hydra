@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/vars/db"
-	dbmysql "psbnb.com/greatsun/hydra/conf/vars/db/mysql"
-	dboracle "psbnb.com/greatsun/hydra/conf/vars/db/oracle"
+	"github.com/chack1920/hydra/conf/vars/db"
+	dbmysql "github.com/chack1920/hydra/conf/vars/db/mysql"
+	dboracle "github.com/chack1920/hydra/conf/vars/db/oracle"
 )
 
 func TestNewDB(t *testing.T) {

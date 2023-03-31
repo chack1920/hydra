@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/asaskevich/govalidator"
-	"psbnb.com/greatsun/hydra/conf/vars/cache"
+	"github.com/chack1920/hydra/conf/vars/cache"
 )
 
 // GoCache gocache客户端配置

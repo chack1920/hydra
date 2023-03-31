@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc/pb"
+	"github.com/chack1920/hydra/components/rpcs/rpc/pb"
 )
 
 // Request 处理任务请求

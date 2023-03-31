@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"psbnb.com/greatsun/hydra/components/rpcs/rpc/pb"
+	"github.com/chack1920/hydra/components/rpcs/rpc/pb"
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"

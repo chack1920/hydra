@@ -7,7 +7,7 @@ import (
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/queues/mq"
+	"github.com/chack1920/hydra/components/queues/mq"
 )
 
 // Consumer 基于本地channel的Consumer

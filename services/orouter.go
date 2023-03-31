@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/global"
 )
 
 // API  路由信息

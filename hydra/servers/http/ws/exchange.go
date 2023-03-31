@@ -7,8 +7,8 @@ import (
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/errs"
-	"psbnb.com/greatsun/hydra"
-	"psbnb.com/greatsun/hydra/context"
+	"github.com/chack1920/hydra"
+	"github.com/chack1920/hydra/context"
 )
 
 // WSExchange web socket message exchange

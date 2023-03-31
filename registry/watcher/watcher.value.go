@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // NewValueWatcher 构建值监控,监控指定路径的值变化

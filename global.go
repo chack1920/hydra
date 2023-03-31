@@ -3,14 +3,14 @@ package hydra
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/creator"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/registry"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/creator"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/registry"
+	"github.com/chack1920/hydra/services"
 )
 
 // C 基础组件

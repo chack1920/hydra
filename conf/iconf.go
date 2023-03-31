@@ -3,7 +3,7 @@ package conf
 import (
 	"errors"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // ErrNoSetting 未配置

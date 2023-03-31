@@ -4,8 +4,8 @@ import (
 	"io"
 	"os"
 
-	"psbnb.com/greatsun/hydra/conf"
-	"psbnb.com/greatsun/hydra/context"
+	"github.com/chack1920/hydra/conf"
+	"github.com/chack1920/hydra/context"
 )
 
 var _ context.IFile = &file{}

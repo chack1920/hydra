@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/micro-plat/lib4go/errs"
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/pkgs"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/pkgs"
 )
 
 // Invoke 调用本地服务，并返回response

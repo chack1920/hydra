@@ -4,7 +4,7 @@ import (
 	"github.com/lib4dev/cli/cmds"
 	logs "github.com/lib4dev/cli/logger"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 func init() {

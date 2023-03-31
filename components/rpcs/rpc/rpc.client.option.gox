@@ -3,7 +3,7 @@ package rpc
 import (
 	"time"
 
-	"psbnb.com/greatsun/hydra/components/rpcs/balancer"
+	"github.com/chack1920/hydra/components/rpcs/balancer"
 	"github.com/micro-plat/lib4go/logger"
 )
 

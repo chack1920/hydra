@@ -1,7 +1,7 @@
 package cron
 
 import (
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/middleware"
+	"github.com/chack1920/hydra/hydra/servers/pkg/middleware"
 )
 
 var middlewares = make(middleware.Handlers, 0, 1)

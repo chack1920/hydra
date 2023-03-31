@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 // GetFileList 获取文件列表

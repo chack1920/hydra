@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/micro-plat/lib4go/registry"
-	r "psbnb.com/greatsun/hydra/registry"
+	r "github.com/chack1920/hydra/registry"
 )
 
 // Local 本地内存作为注册中心

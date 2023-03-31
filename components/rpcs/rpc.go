@@ -2,9 +2,9 @@ package rpcs
 
 import (
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/components/container"
-	"psbnb.com/greatsun/hydra/conf"
-	rpcconf "psbnb.com/greatsun/hydra/conf/vars/rpc"
+	"github.com/chack1920/hydra/components/container"
+	"github.com/chack1920/hydra/conf"
+	rpcconf "github.com/chack1920/hydra/conf/vars/rpc"
 )
 
 // IComponentRPC Component Cache

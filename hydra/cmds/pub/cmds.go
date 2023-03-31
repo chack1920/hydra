@@ -2,7 +2,7 @@ package pub
 
 import (
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 type cmd string

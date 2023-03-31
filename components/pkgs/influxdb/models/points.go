@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"psbnb.com/greatsun/hydra/components/pkgs/influxdb/escape"
+	"github.com/chack1920/hydra/components/pkgs/influxdb/escape"
 )
 
 var (

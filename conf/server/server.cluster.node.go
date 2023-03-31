@@ -3,7 +3,7 @@ package server
 import (
 	"strings"
 
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 // CNode 集群节点

@@ -11,8 +11,8 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/server/router"
-	"psbnb.com/greatsun/hydra/context"
+	"github.com/chack1920/hydra/conf/server/router"
+	"github.com/chack1920/hydra/context"
 )
 
 func Test_pathRouter_Add_WithPanic(t *testing.T) {

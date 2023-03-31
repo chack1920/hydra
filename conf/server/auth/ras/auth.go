@@ -3,7 +3,7 @@ package ras
 import (
 	"encoding/json"
 
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 // Auth 远程认证服务

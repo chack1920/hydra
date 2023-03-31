@@ -3,7 +3,7 @@ package filesystem
 import (
 	"fmt"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 )
 
 // zkRegistry 基于zookeeper的注册中心

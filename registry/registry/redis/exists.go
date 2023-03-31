@@ -1,6 +1,6 @@
 package redis
 
-import "psbnb.com/greatsun/hydra/registry/registry/redis/internal"
+import "github.com/chack1920/hydra/registry/registry/redis/internal"
 
 // Exists 检查节点是否存在
 func (r *Redis) Exists(path string) (bool, error) {

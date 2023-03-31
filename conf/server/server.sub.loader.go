@@ -3,7 +3,7 @@ package server
 import (
 	"sync"
 
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 // Loader 配置加载器

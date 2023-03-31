@@ -1,6 +1,6 @@
 package lmq
 
-import "psbnb.com/greatsun/hydra/conf/vars/queue"
+import "github.com/chack1920/hydra/conf/vars/queue"
 
 // LMQ 本地队列
 type LMQ = queue.Queue

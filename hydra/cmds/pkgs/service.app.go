@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs/service"
-	"psbnb.com/greatsun/hydra/hydra/servers"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs/service"
+	"github.com/chack1920/hydra/hydra/servers"
 )
 
 type HydraService struct {

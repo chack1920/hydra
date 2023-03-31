@@ -7,7 +7,7 @@ import (
 	"github.com/asaskevich/govalidator"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/vars/cache"
+	"github.com/chack1920/hydra/conf/vars/cache"
 )
 
 // Memcache memcache客户端配置

@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-redis/redis"
 	"github.com/micro-plat/lib4go/types"
-	varredis "psbnb.com/greatsun/hydra/conf/vars/redis"
+	varredis "github.com/chack1920/hydra/conf/vars/redis"
 )
 
 // Client redis客户端

@@ -7,9 +7,9 @@ import (
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/global"
-	r "psbnb.com/greatsun/hydra/registry"
-	"psbnb.com/greatsun/hydra/registry/registry/redis/internal"
+	"github.com/chack1920/hydra/global"
+	r "github.com/chack1920/hydra/registry"
+	"github.com/chack1920/hydra/registry/registry/redis/internal"
 )
 
 type Redis struct {

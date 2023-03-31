@@ -3,30 +3,30 @@ package hydra
 import (
 	"github.com/lib4dev/cli"
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/global/compatible"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/global/compatible"
+	"github.com/chack1920/hydra/services"
 
-	_ "psbnb.com/greatsun/hydra/registry/watcher/wchild"
-	_ "psbnb.com/greatsun/hydra/registry/watcher/wvalue"
+	_ "github.com/chack1920/hydra/registry/watcher/wchild"
+	_ "github.com/chack1920/hydra/registry/watcher/wvalue"
 
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/conf"
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/install"
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/remove"
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/run"
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/update"
+	_ "github.com/chack1920/hydra/hydra/cmds/conf"
+	_ "github.com/chack1920/hydra/hydra/cmds/install"
+	_ "github.com/chack1920/hydra/hydra/cmds/remove"
+	_ "github.com/chack1920/hydra/hydra/cmds/run"
+	_ "github.com/chack1920/hydra/hydra/cmds/update"
 
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/start"
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/status"
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/stop"
+	_ "github.com/chack1920/hydra/hydra/cmds/start"
+	_ "github.com/chack1920/hydra/hydra/cmds/status"
+	_ "github.com/chack1920/hydra/hydra/cmds/stop"
 
-	_ "psbnb.com/greatsun/hydra/hydra/cmds/restart"
+	_ "github.com/chack1920/hydra/hydra/cmds/restart"
 
-	_ "psbnb.com/greatsun/hydra/registry/registry/dbr"
-	_ "psbnb.com/greatsun/hydra/registry/registry/filesystem"
-	_ "psbnb.com/greatsun/hydra/registry/registry/localmemory"
-	_ "psbnb.com/greatsun/hydra/registry/registry/redis"
-	_ "psbnb.com/greatsun/hydra/registry/registry/zookeeper"
+	_ "github.com/chack1920/hydra/registry/registry/dbr"
+	_ "github.com/chack1920/hydra/registry/registry/filesystem"
+	_ "github.com/chack1920/hydra/registry/registry/localmemory"
+	_ "github.com/chack1920/hydra/registry/registry/redis"
+	_ "github.com/chack1920/hydra/registry/registry/zookeeper"
 )
 
 // MicroApp  微服务应用

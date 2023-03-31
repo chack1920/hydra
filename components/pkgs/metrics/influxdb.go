@@ -10,7 +10,7 @@ import (
 	"github.com/micro-plat/lib4go/types"
 	cron "github.com/robfig/cron/v3"
 	"github.com/zkfy/go-metrics"
-	"psbnb.com/greatsun/hydra/components/pkgs/influxdb"
+	"github.com/chack1920/hydra/components/pkgs/influxdb"
 )
 
 type IReporter interface {

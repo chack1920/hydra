@@ -5,7 +5,7 @@ import (
 	"net/url"
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
-	"psbnb.com/greatsun/hydra/conf"
+	"github.com/chack1920/hydra/conf"
 )
 
 var clusters = cmap.New(2)

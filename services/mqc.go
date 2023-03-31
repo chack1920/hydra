@@ -4,8 +4,8 @@ import (
 	"sync"
 
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/server/queue"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/conf/server/queue"
+	"github.com/chack1920/hydra/global"
 )
 
 // IMQC MQC动态服务管理

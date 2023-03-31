@@ -5,8 +5,8 @@ import (
 	"sync"
 
 	"github.com/micro-plat/lib4go/logger"
-	"psbnb.com/greatsun/hydra/components/pkgs/metrics"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/components/pkgs/metrics"
+	"github.com/chack1920/hydra/global"
 )
 
 // Metric 服务器处理能力统计

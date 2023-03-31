@@ -8,11 +8,11 @@
 package pkgs
 
 import (
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs/service"
-	"psbnb.com/greatsun/hydra/registry"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs/service"
+	"github.com/chack1920/hydra/registry"
+	"github.com/chack1920/hydra/services"
 )
 
 // Stop Stop

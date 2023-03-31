@@ -1,6 +1,6 @@
 package http
 
-import "psbnb.com/greatsun/hydra/conf/pkgs/security"
+import "github.com/chack1920/hydra/conf/pkgs/security"
 
 const (
 	//typeNode DB在var配置中的类型名称

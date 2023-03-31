@@ -3,8 +3,8 @@ package pub
 import (
 	"github.com/lib4dev/cli/cmds"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/global/compatible"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/global/compatible"
 )
 
 func init() {

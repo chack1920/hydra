@@ -2,10 +2,10 @@ package start
 
 import (
 	"github.com/lib4dev/cli/cmds"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs"
 
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 var isFixed bool

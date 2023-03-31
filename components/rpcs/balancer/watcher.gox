@@ -3,7 +3,7 @@ package balancer
 import (
 	"strings"
 
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/registry"
 	r "github.com/micro-plat/lib4go/registry"
 
 	"sort"

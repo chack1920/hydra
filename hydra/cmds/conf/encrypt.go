@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/conf/pkgs/security"
+	"github.com/chack1920/hydra/conf/pkgs/security"
 )
 
 func encrypt(c *cli.Context) (err error) {

@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/dispatcher"
+	"github.com/chack1920/hydra/hydra/servers/pkg/dispatcher"
 )
 
 func Gzip(level int) Handler {

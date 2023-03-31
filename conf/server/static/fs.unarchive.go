@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/mholt/archiver"
-	"psbnb.com/greatsun/hydra/global"
+	"github.com/chack1920/hydra/global"
 )
 
 func unarchive(path string) (*osfs, error) {

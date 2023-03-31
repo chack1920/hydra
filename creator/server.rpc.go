@@ -1,7 +1,7 @@
 package creator
 
 import (
-	"psbnb.com/greatsun/hydra/conf/server/rpc"
+	"github.com/chack1920/hydra/conf/server/rpc"
 )
 
 type rpcBuilder struct {

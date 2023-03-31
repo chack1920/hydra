@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"psbnb.com/greatsun/hydra/context"
-	"psbnb.com/greatsun/hydra/hydra/servers/pkg/nfs/infs"
+	"github.com/chack1920/hydra/context"
+	"github.com/chack1920/hydra/hydra/servers/pkg/nfs/infs"
 )
 
 // Query 获取每个机器所有文件

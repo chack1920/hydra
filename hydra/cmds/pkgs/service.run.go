@@ -5,10 +5,10 @@ import (
 
 	"github.com/micro-plat/lib4go/logger"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs/rlog"
-	"psbnb.com/greatsun/hydra/hydra/servers"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs/rlog"
+	"github.com/chack1920/hydra/hydra/servers"
+	"github.com/chack1920/hydra/registry"
 )
 
 func (p *ServiceApp) run() (err error) {

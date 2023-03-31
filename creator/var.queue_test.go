@@ -4,10 +4,10 @@ import (
 	"testing"
 
 	"github.com/micro-plat/lib4go/assert"
-	"psbnb.com/greatsun/hydra/conf/vars/queue"
-	queuelmq "psbnb.com/greatsun/hydra/conf/vars/queue/lmq"
-	queuemqtt "psbnb.com/greatsun/hydra/conf/vars/queue/mqtt"
-	"psbnb.com/greatsun/hydra/conf/vars/queue/queueredis"
+	"github.com/chack1920/hydra/conf/vars/queue"
+	queuelmq "github.com/chack1920/hydra/conf/vars/queue/lmq"
+	queuemqtt "github.com/chack1920/hydra/conf/vars/queue/mqtt"
+	"github.com/chack1920/hydra/conf/vars/queue/queueredis"
 )
 
 func TestNewQueue(t *testing.T) {

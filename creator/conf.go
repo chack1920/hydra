@@ -7,13 +7,13 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/micro-plat/lib4go/types"
-	"psbnb.com/greatsun/hydra/conf/server/api"
-	"psbnb.com/greatsun/hydra/conf/server/cron"
-	"psbnb.com/greatsun/hydra/conf/server/mqc"
-	"psbnb.com/greatsun/hydra/conf/server/rpc"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/hydra/servers"
-	"psbnb.com/greatsun/hydra/services"
+	"github.com/chack1920/hydra/conf/server/api"
+	"github.com/chack1920/hydra/conf/server/cron"
+	"github.com/chack1920/hydra/conf/server/mqc"
+	"github.com/chack1920/hydra/conf/server/rpc"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/hydra/servers"
+	"github.com/chack1920/hydra/services"
 )
 
 // IConf 配置注册管理

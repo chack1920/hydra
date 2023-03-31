@@ -6,7 +6,7 @@ import (
 
 	"github.com/micro-plat/lib4go/concurrent/cmap"
 	"github.com/micro-plat/lib4go/registry"
-	"psbnb.com/greatsun/hydra/components/dbs"
+	"github.com/chack1920/hydra/components/dbs"
 )
 
 type childrenWatchers struct {

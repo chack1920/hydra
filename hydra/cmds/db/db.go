@@ -15,12 +15,12 @@ import (
 	"github.com/manifoldco/promptui"
 	"github.com/micro-plat/lib4go/types"
 	"github.com/urfave/cli"
-	"psbnb.com/greatsun/hydra/components"
-	"psbnb.com/greatsun/hydra/conf/app"
-	"psbnb.com/greatsun/hydra/global"
-	"psbnb.com/greatsun/hydra/global/compatible"
-	"psbnb.com/greatsun/hydra/hydra/cmds/pkgs"
-	"psbnb.com/greatsun/hydra/registry"
+	"github.com/chack1920/hydra/components"
+	"github.com/chack1920/hydra/conf/app"
+	"github.com/chack1920/hydra/global"
+	"github.com/chack1920/hydra/global/compatible"
+	"github.com/chack1920/hydra/hydra/cmds/pkgs"
+	"github.com/chack1920/hydra/registry"
 )
 
 func init() {
